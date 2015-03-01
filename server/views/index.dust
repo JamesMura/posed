@@ -1,0 +1,4 @@
+{>"core/layout.dust"/}
+{<body}
+    <div ng-view></div>
+{/body}

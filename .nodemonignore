@@ -1,0 +1,23 @@
+# Ignore git repos
+**/.git/**
+
+# Ignore public web files
+client/**/*
+
+# Ignore tests
+tests/**
+
+# Ignore build config
+gulp/**/*
+
+# Ignore bower and npm
+node_modules/**/*
+
+# Ignore logs
+logs/**
+
+# Ignore misc stuff
+**/*.html
+**/*.dust
+README.md
+nohup.out
